@@ -12,9 +12,11 @@ El juego termina cuando:
 
 ## 🛠️ Tecnologías utilizadas
 
-- Java (JDK 8 o superior)
+- Java (probado con JDK 24)
 - IDE recomendada: Visual Studio Code, IntelliJ IDEA, Eclipse, etc.
 - Entrada por consola (clase `Scanner`)
+
+> ⚠️ Se recomienda usar Java 17 o superior para aprovechar mejoras del lenguaje y mantener compatibilidad con versiones modernas.
 
 ## ▶️ Cómo ejecutar
 
