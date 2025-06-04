@@ -7,7 +7,7 @@ public class App {
         Scanner scanner = new Scanner(System.in);
 
         // Declaraciones y asignaciones    
-        String palabraSecreta = "cachon";
+        String palabraSecreta = "inteligencia";
         int intentosMaximos = 10;
         int intentos = 0;
         boolean palabraAdivinada = false;
